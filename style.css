@@ -132,7 +132,7 @@ select{
     text-align: right;
     margin-right: 0px;
     position: absolute;
-    z-index: 0;
+    z-index: 100;
     margin-top: 0px;
     margin-left: 130px;
 }
