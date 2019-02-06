@@ -1,0 +1,182 @@
+#corp{
+    background: linear-gradient(white, rgb(210, 211, 223)) !important;
+    width: 100%;
+    height: 570px;
+    margin-top: 35px;
+}
+
+.entete{
+    background-color: rgb(72, 103, 170);
+    height: 85px;
+}
+
+.logo{
+    margin-top: 18px;
+    text-align: center;
+}
+#fb{
+    font-weight: bold !important;
+    color: white !important;
+    font-size: 40px !important;
+    margin-right: 150px;
+}
+
+.label{
+    font-size: 11px;
+    font-weight: bold !important;
+    color: white;
+    line-height: 0%;
+}
+.sexe{
+    font-size: 20px;
+}
+
+.connect{
+    width: 160px;
+    height: 22px;
+}
+.signin{
+    margin-top: 10px;
+    margin-left: auto;
+}
+
+.info{
+    color: rgb(156,171,197);
+    font-size: 11px;
+    font-weight: bold !important;
+    line-height: 0%;
+}
+
+#btn{
+    text-align: left;
+    background-color: rgb(66,103,178) !important;
+    width: 85px !important;
+    height: 22px !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+    margin-top: 25px !important;
+    line-height: 10% !important;
+    border-radius: 0px !important;
+    border-color: rgb(41,72,125) !important;
+}
+
+.formul{
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    margin-block-start: 2px;
+    margin-block-end: 8px;
+}
+
+#input1{
+
+    width: 360px;
+}
+
+.texte{
+    font-size: 10px;
+    color: rgb(54, 88, 176);
+}
+
+select{
+    height: 30px;
+    width: 70px;
+}
+
+.avec{
+    font-size: 20px;
+    color: rgb(14, 56, 95) !important;
+    text-align: left !important;
+    margin-left: 150px;
+}
+
+.left{
+    float: left;
+    text-align: right;
+    margin-right: 0px;
+    position: absolute;
+    z-index: 0;
+    margin-top: 60px;
+    margin-left: 160px;
+}
+
+.fcb{
+    float: left;
+    text-align: right;
+    margin-right: 0px;
+    position: absolute;
+    z-index: 0;
+    margin-top: 0px;
+    margin-left: 130px;
+}
+
+.right{
+    margin-left: 60px;
+}
+
+#com{
+    font-size: 10px;
+    color: grey;
+}
+
+#com1{
+    font-size: 13px;
+    color: grey;
+    font-weight: 600;
+}
+
+.ref{
+    color: rgb(54, 88, 176) !important;
+}
+
+.ligne{
+    padding-left: 5px;
+    height: 10px !important;
+    line-height: 90% !important;
+}
+
+footer{
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+hr{
+    width: 900px;
+    margin-right: 260px;
+}
+.liste{
+    font-size: 13px;
+    display: flex;
+    list-style-type: none;
+    Line-Height: 5pt;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+
+}
+li a{
+    color: rgb(54, 88, 176) !important;
+}
+
+.france{
+    color: grey !important;
+}
+
+#inscrit{
+    display: block;
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+    border: 1px solid rgb(59,110,34);
+    line-height: 50%;
+    text-shadow: 1pt 1pt black;
+    box-shadow: 1px 1px 1px rgb(189, 253, 156) inset;
+    
+}
+
+.bas{
+    margin-left: 40px;
+    font-style: normal;
+    color: rgb(156,171,197);
+    font-size: 11px;
+    line-height: 0pt;
+}
